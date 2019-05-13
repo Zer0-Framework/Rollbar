@@ -14,7 +14,7 @@
     ],
     "support" : {
         "email" : "kak.serpom.po.yaitsam@gmail.com",
-        "issues": "https://github.com/Zer0-Framework/Rollbar/issues"
+        "issues": "https://github.com/zer0-framework/rollbar/issues"
     },
     "require": {
         "php": ">=7.2",
