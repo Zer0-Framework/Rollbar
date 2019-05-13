@@ -1,8 +1,8 @@
 {
-    "name"  : "Zer0-Framework/Rollbar",
+    "name"  : "zer0-framework/rollbar",
     "type"  : "library",
     "keywords": ["Zer0", "highload"],
-    "homepage": "https://github.com/Zer0-Framework/Rollbar",
+    "homepage": "https://github.com/zer0-framework/rollbar",
     "license" : "GPL-3.0-or-later",
     "description": "",
     "authors" : [
@@ -18,8 +18,8 @@
     },
     "require": {
         "php": ">=7.2",
-        "Zer0-Framework/Zer0": "*",
-        "Zer0-Framework/Config": "*",
+        "zer0-framework/core": "*",
+        "zer0-framework/config": "*",
         "Rollbar/Rollbar": "^1.24"
     },
     "autoload": {
