@@ -20,7 +20,7 @@
         "php": ">=7.2",
         "zer0-framework/core": "*",
         "zer0-framework/config": "*",
-        "Rollbar/Rollbar": "~1.5"
+        "rollbar/rollbar": "~1.5"
     },
     "autoload": {
         "classmap": ["src/"]
